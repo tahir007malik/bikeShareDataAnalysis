@@ -67,7 +67,7 @@ The data set consists of **13 variables**, as shown in the following: <br>
 
 and the **data type** of each variable is depicted below:
 
-<img width="352" alt="DataType" src="https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/3f2e5e1d-b18e-4c9b-92e8-c6e35ce8ae12">
+<img width="352" alt="DataType" src="https://github.com/tahir7malik/cyclistic-bikeshare-data-analysis/blob/main/assets/cyclistic-schema.png">
 
 #### Data Cleaning
 Before analyzing the data, the dataset was cleaned by:
