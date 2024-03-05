@@ -106,7 +106,7 @@ The types of bicycles used for the trips are displayed as follow:
 The average ride length is plotted against the type of users (member vs. casual):
 
 ![Avg Ride Length (Year)](https://github.com/tahir7malik/cyclistic-bikeshare-data-analysis/blob/main/assets/cyclistic-average-ride-duration.png)
-- **Cyclistic members** can ride on the bicycles for about **12.41 minutes** on average whereas **casual riders** have an average ride length of **23.82 minutes**. Hence, the ride duration of Cyclistic members are approximately two times smalelr than casual riders.
+- **Cyclistic members** can ride on the bicycles for about **12.41 minutes** on average whereas **casual riders** have an average ride length of **23.82 minutes**. Hence, the ride duration of Cyclistic members are approximately two times smaller than casual riders.
 <br>
 
 ### - Trips Taken in a Month
