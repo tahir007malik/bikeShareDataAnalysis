@@ -76,6 +76,7 @@ Before analyzing the data, the dataset was cleaned by:
 - Exclusing the **rides with duration less than a minute** or **longer than a day**.
 
 In total, 4,224,062 rows were returned, which means **1,443,655 rows were removed**.
+<img width="1366" alt="googlebigquery-sql" src="https://github.com/tahir7malik/cyclistic-bikeshare-data-analysis/blob/main/assets/cyclistic-googlebigquery-sql.png">
 
 ### 4. Analyze
 #### Data Analysis
