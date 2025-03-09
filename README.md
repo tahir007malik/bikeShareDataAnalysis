@@ -145,7 +145,7 @@ The mean ride duration across the week is displayed as follow.
 
 ### 5. Share
 ![Cyclistic Bike Share Dashboard](https://github.com/tahir7malik/cyclistic-bikeshare-data-analysis/blob/main/assets/cyclistic-dashboard.png)
-View [Cyclistic Bike Share Dashboard](https://public.tableau.com/app/profile/tahir.malik/viz/cyclistic-bikeshare-data-analysis/Dashboard).
+View [Cyclistic Bike Share Dashboard](https://public.tableau.com/app/profile/tahir.malik/viz/CyclisticBikeshareDashboard_17414287054790/Dashboard).
 
 The similiarities and differences between Cyclistic members and casual riders were drawn from the dashboard above.
 
