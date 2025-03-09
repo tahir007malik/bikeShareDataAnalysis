@@ -32,7 +32,7 @@ The company's marketing director believes that the company’s future success de
 
 **Tools:** <br>
 - Data cleaning & processing - SQL on Google Big Query 
-- Data visualization - [Tableau](https://public.tableau.com/app/profile/tahir.malik/viz/cyclistic-bikeshare-data-analysis/Dashboard)
+- Data visualization - [Tableau](https://public.tableau.com/app/profile/tahir.malik/viz/CyclisticBikeshareDashboard_17414287054790/Dashboard)
 
 ### 3. Process
 The basis for this analysis is **2022** data and the steps for processing the data are as follow:
